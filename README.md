@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Manny
-
+### Information Security Professional
 I am a security practitioner with experience providing cybersecurity solutions and working proactively to keep companies secure from cyber attacks, hackers, malware, and other threats.
+
+I am mainly utilizing my Github to showcase IT projects.
 
 Thanks for visiting!
 
