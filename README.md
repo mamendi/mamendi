@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Manny
 
+I am a security practitioner with experience providing cybersecurity solutions and working proactively to keep companies secure from cyber attacks, hackers, malware, and other threats.
+
 <!--
 **mamendi/mamendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-I am a security practitioner with experience providing cybersecurity solutions and working proactively to keep companies secure from cyber attacks, hackers, malware, and other threats.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
