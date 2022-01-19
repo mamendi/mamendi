@@ -4,7 +4,7 @@ I am a security practitioner with experience providing cybersecurity solutions a
 
 I am mainly utilizing my Github to showcase IT projects.
 
-## Skilled In :fire:
+## :fire: Skilled In:
 - Real-time security analysis using **SIEM**.
 - endpoint security
 - vulnerability management lifecycle
