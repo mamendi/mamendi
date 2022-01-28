@@ -1,14 +1,17 @@
 ### Hi there 👋, I'm Manny
-### Information Security Professional
-I am a security practitioner with experience providing cybersecurity solutions and working proactively to keep companies secure from cyber attacks, hackers, malware, and other threats.
+### Cloud Systems Engineer
+I am an Enterprise Systems Engineer with experience architecting hybrid solutions and securing critical infrastructure in various industries.
+
+I am passionated about Cloud technologies, in particular cloud security. To advance my career in this space, I have undertaken additional studies to extend my knowledge and skills into this specialty. I am currently focusing my studies on Azure.
 
 I am mainly utilizing my Github to showcase IT projects.
 
-## :fire: Skilled In:
-- Real-time security analysis using **SIEM**.
-- endpoint security
-- vulnerability management lifecycle
-- Security standards and policies
+## :fire: Skills:
+- VMware and Hyper-V virtualization infrastructure
+- Windows Server and Linux 
+- Azure Cloud
+- On-prem and Cloud infrastructure architecture
+- Good understanding of containers, serverless, infrastructure automation
 
 Thanks for visiting!
 
