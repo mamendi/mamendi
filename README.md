@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Manny
-### Systems Engineer
+### Everything Cloud and DevOps
 I am an Enterprise Systems Engineer with experience architecting hybrid solutions and securing critical infrastructure in various industries.
 
-I am passionated about Infrastructure and Cloud technologies. To advance my career in this space, I have undertaken additional studies to extend my knowledge and skills into this specialty. I am currently focusing my studies on Azure.
+I am passionated about Cloud Infrastructure and DevOps. To advance my career in this space, I have undertaken additional studies to extend my knowledge and skills into this specialty. I am currently focusing improving my skills on Azure and Terraform.
 
 I am mainly utilizing my Github to showcase IT projects.
 
@@ -11,7 +11,7 @@ I am mainly utilizing my Github to showcase IT projects.
 - Windows Server and Linux Administration
 - Azure Cloud
 - On-prem and Cloud infrastructure architecture
-- Good understanding of containers, serverless, infrastructure automation
+- Extensive knowledge of containers and infrastructure automation
 
 Thanks for visiting!
 
